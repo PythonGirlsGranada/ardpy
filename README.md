@@ -1,2 +1,2 @@
-# ardpy
-Useful resources for arduino connections using Python. 
+# ARDPY
+A collection of files and scripts that allows you to better understand the arduino connection using python.
